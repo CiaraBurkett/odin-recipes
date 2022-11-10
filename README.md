@@ -1,5 +1,6 @@
-# odin-recipes
-A few of my favorite recipes.
+# Odin Recipes
+A few of my favorite (raw vegan) recipes. Although I'm not raw vegan myself, I enjoy eating raw vegan during the summer
+when I need a light meal.
 
 ## What I Learned
 - [How to Undo Last Git Commit](https://devconnected.com/how-to-undo-last-git-commit/)
