@@ -7,3 +7,4 @@ when I need a light meal.
 - [How to change git username in terminal](https://stackoverflow.com/questions/22844806/how-to-change-my-git-username-in-terminal)
 - [Git rebase](https://git-scm.com/docs/git-rebase)
 - [Compart](https://www.compart.com/en/unicode) 
+- [Troubleshooting SSH](https://docs.github.com/en/authentication/troubleshooting-ssh)
